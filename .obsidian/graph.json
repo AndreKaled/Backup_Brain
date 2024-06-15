@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Git  ",
+      "query": "path:Git  ",
       "color": {
         "a": 1,
-        "rgb": 15273016
+        "rgb": 15078420
       }
     }
   ],
