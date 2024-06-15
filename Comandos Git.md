@@ -12,8 +12,8 @@ Inicializa git na pasta local, criando um arquivo .git com algumas configuraçõ
 `git branch -M main`
 Altera a branch atual para a main, recomendado ao iniciar o Git, para garantir compatibilidade, diferente da master.
 
----
-## Adicionando arquivos ao repositório
+
+## Adicionando alterações ao repositório
 `git status`
 Revela o status atual dos arquivos, mostrando os arquivos rastreados pelo Git.
 
@@ -28,4 +28,9 @@ Adiciona os arquivos da pasta para serem rastreados pelo Git ao próximo commit.
 Adiciona todos os arquivos e subpastas da pasta atual para serem rastreados pelo Git ao próximo commit.
 
 `git commit -m "mensagem de commit"`
-Salva o conteúdo dos arquivos e a mensagem de registro do usu
+Salva o conteúdo dos arquivos e a mensagem de registro do usuário, que descreve as alterações.
+
+`git push`
+Envia o commit ao repositório remoto.
+
+---
