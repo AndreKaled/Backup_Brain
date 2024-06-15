@@ -52,6 +52,9 @@ Estas Branches podem se fundir novamente com a Branch principal, fazendo a junç
 `git branch`
 Lista todas as branches do repositório local.
 
+`git branch -a`
+Lista todas as branches do repositório local.
+
 `git checkout <branch_name>`
 Muda para a branch especificada.
 
@@ -61,7 +64,13 @@ Cria uma nova branch.
 `git merge <branch_name>
 Mescla/Integra as alterações da branch especificada à branch atual.
 
-`git branch -d <branch_name>` ou  `git branch -d <branch_name>
+`git branch -d <branch_name>` ou `git branch -D <branch_name>
 Deleta a branch especificada.
 
+`git branch -m <branch_name> <new_branch_name>`
+Renomeia o nome da branch.
 
+`git push`
+Envia a branch local para o repositório remoto.
+
+`git push origin <branch_name>:<branch_remota>`
