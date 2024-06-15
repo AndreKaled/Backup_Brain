@@ -1,3 +1,4 @@
+[[Git]]
 # O básico
 ## Configurando identificação
 `git config --global user.name "NomeDeUsuario"`

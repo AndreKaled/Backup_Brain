@@ -14,18 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "380de7beea387ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Comandos Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -152,9 +140,9 @@
   },
   "active": "55ea88e9b57b6c81",
   "lastOpenFiles": [
+    "Git/Git.md",
     "Git/Comandos Git.md",
     "Git/Dicionário Git.md",
-    "Git/Git.md",
     "Git",
     "2024-06-14.md",
     "Testing.md"
