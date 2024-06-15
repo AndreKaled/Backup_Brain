@@ -35,4 +35,5 @@ Envia o commit ao repositório remoto.
 ---
 # Baixando dados remotos
 ## Repositórios
+`git clone`
 ## Arquivos alterados
