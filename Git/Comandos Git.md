@@ -74,7 +74,7 @@ Cria uma nova branch.
 `git fetch`
 Atualiza as branches locais, sem mesclar as alterações.
 
-`git merge <branch_name>
+`git merge <branch_name>`
 Mescla/Integra as alterações da branch especificada à branch atual.
 
 `git branch -d <branch_name>` ou `git branch -D <branch_name>
@@ -86,7 +86,7 @@ Renomeia o nome da branch.
 `git push`
 Envia a branch local para o repositório remoto.
 
-`git push origin <branch_name>
+`git push origin <branch_name>`
 Envia a branch especificada para o origin.
 
 `git branch --compare <branch_name> <branch_name2>`
@@ -96,6 +96,6 @@ Compara diferenças entre as branches.
 Mostra o histórico de commits da branch especificada.
 
 `git reset --hard <branch_name>`
-Exclui todos os commits da branch, retorna para o estado inicial da 
+Exclui todos os commits da branch, retorna para o commit inicial.
 
 #Git 

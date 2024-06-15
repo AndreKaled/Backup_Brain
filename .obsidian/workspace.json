@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Git/Comandos Git.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "505656b42c0f0c06",
+  "active": "b9b1ea4d818e4d50",
   "lastOpenFiles": [
     "Git/Comandos Git.md",
     "Git/Git.md",
