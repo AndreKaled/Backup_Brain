@@ -40,6 +40,7 @@ A URL pode ser HTTP ou SSH.
  Faz a busca e download do conteúdo do repositório remoto, para atualizar o repositório local e tornar os conteúdos iguais.
  Detalhe: `git pull` é a junção do `git fetch` e `git merge`.
 
-
 ---
-#
+# Conhecendo um pouco mais...
+## Branch's
+Uma Branch (do português, ramificação)
