@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65b18f491bdf3228",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b1ea4d818e4d50",
+  "active": "505656b42c0f0c06",
   "lastOpenFiles": [
     "Git/Comandos Git.md",
     "Git/Git.md",

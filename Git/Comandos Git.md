@@ -87,6 +87,15 @@ Renomeia o nome da branch.
 Envia a branch local para o repositório remoto.
 
 `git push origin <branch_name>
-Envia a branch especificada para o **origin**.
+Envia a branch especificada para o origin.
+
+`git branch --compare <branch_name> <branch_name2>`
+Compara diferenças entre as branches.
+
+`git log <branch_name>`
+Mostra o histórico de commits da branch especificada.
+
+`git reset --hard <branch_name>`
+Exclui todos os commits da branch, retorna para o estado inicial da 
 
 #Git 
