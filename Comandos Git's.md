@@ -1,2 +1,5 @@
 # Apenas o básico
-## Criando
+## Configurando identificação
+> git config --global user.name "AndreKaled"
+## Criando repositórios 
+> git 
