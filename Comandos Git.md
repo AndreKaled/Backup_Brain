@@ -58,8 +58,10 @@ Muda para a branch especificada.
 `git branch <branch_name>`
 Cria uma nova branch.
 
-`git merge`
-Mescla a
+`git merge <branch_name>
+Mescla/Integra as alterações da branch especificada à branch atual.
 
-`git rebase `
+`git branch -d <branch_name>` ou  `git branch -d <branch_name>
+Deleta a branch especificada.
+
 
