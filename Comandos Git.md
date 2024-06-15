@@ -35,5 +35,7 @@ Envia o commit ao repositório remoto.
 ---
 # Baixando dados remotos
 ## Repositórios
-`git clone`
+`git clone <URL>`
+Clona todo o projeto da URL na pasta atual.
+A URL pode ser HTTP ou SSH.
 ## Arquivos alterados
