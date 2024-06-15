@@ -70,6 +70,9 @@ Muda para a branch especificada.
 `git branch <branch_name>`
 Cria uma nova branch.
 
+`git fetch`
+Atualiza as branches locais, sem mesclar as alterações.
+
 `git merge <branch_name>
 Mescla/Integra as alterações da branch especificada à branch atual.
 
