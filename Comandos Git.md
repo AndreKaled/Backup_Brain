@@ -31,11 +31,13 @@ Salva o conteúdo dos arquivos e a mensagem de registro do usuário, que descrev
 
 `git push`
 Envia o commit ao repositório remoto.
-
----
-# Baixando dados remotos
-## Repositórios
+## Clonando repositórios
 `git clone <URL>`
 Clona todo o projeto da URL na pasta atual.
 A URL pode ser HTTP ou SSH.
-## Arquivos alterados
+## Atualizando repositório local
+`git pull`
+ Faz a busca e download do conteúdo do repositório remoto, para atualizar o repositório local e tornar os conteúdos iguais.
+
+
+---
