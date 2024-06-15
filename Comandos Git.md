@@ -43,4 +43,5 @@ A URL pode ser HTTP ou SSH.
 ---
 # Conhecendo um pouco mais...
 ## Branch's
-Uma Branch (do português, ramificação)
+>Branch, é o nome dado para o sistema de versionamento que usamos através do Git e Github, para manter controle dos projetos.
+
