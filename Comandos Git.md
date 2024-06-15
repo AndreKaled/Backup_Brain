@@ -86,4 +86,8 @@ Renomeia o nome da branch.
 Envia a branch local para o repositório remoto.
 
 `git push origin <branch_name>
-Envia a branch especificada para o **origin**
+Envia a branch especificada para o #Origin.
+
+# Dicionário Git
+# #Origin
+É um #alias local, definido como chave no lugar da URL remota de repositório.

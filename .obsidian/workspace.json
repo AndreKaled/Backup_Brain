@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Origin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65b18f491bdf3228",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efa1dbb4e77fb464",
+  "active": "0c8c79221e29fe65",
   "lastOpenFiles": [
     "Comandos Git.md",
     "2024-06-14.md",
