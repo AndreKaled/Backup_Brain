@@ -48,3 +48,18 @@ A URL pode ser HTTP ou SSH.
 A *Main* ou *Master* é a Branch principal do repositório, imagine-o como o tronco principal de um galho, contendo a versão mais estável e segura do código.
 As outras Branches são galhos deste tronco, representam novas funcionalidades, correção de bugs e exploração de ideias, sem afetar o código principal presente no tronco. 
 Estas Branches podem se fundir novamente com a Branch principal, fazendo a junção das alterações feitas nos galhos e o tronco principal (junção entre a Branch separada e a Main).
+### Comandos
+`git branch`
+Lista todas as branches do repositório local.
+
+`git checkout <branch_name>`
+Muda para a branch especificada.
+
+`git branch <branch_name>`
+Cria uma nova branch.
+
+`git merge`
+Mescla a
+
+`git rebase `
+
