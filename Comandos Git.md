@@ -12,15 +12,20 @@ Inicializa git na pasta local, criando um arquivo .git com algumas configuraçõ
 `git branch -M main`
 Altera a branch atual para a main, recomendado ao iniciar o Git, para garantir compatibilidade, diferente da master.
 
+---
 ## Adicionando arquivos ao repositório
 `git status`
 Revela o status atual dos arquivos, mostrando os arquivos rastreados pelo Git.
 
+### adicionando arquivos ao commit
 `git add name_file`
-Adiciona o arquivo mencionado para ser rastreado pelo Git.
+Adiciona o arquivo mencionado para ser rastreado pelo Git ao próximo commit.
 
 `git add .`
-Adiciona os arquivos da pasta para serem rastreados pelo Git.
+Adiciona os arquivos da pasta para serem rastreados pelo Git ao próximo commit.
 
 `git add *`
-Adiciona todos os arquivos e subpastas da p
+Adiciona todos os arquivos e subpastas da pasta atual para serem rastreados pelo Git ao próximo commit.
+
+`git commit -m "mensagem de commit"`
+Salva o conteúdo dos arquivos e a mensagem de registro do usu
