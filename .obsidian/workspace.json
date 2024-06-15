@@ -11,15 +11,24 @@
             "id": "2432e2319243cdd5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "efa1dbb4e77fb464",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Comandos Git's.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Comandos Git's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Comandos Git's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Comandos Git's.md"
               }
             }
           }
@@ -146,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2432e2319243cdd5",
+  "active": "efa1dbb4e77fb464",
   "lastOpenFiles": [
+    "Comandos Git's.md",
+    "2024-06-14.md",
     "Testing.md"
   ]
 }
