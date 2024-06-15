@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05a07b90e777bace",
+        "id": "db5d780832c9e569",
         "type": "tabs",
         "children": [
           {
-            "id": "55ea88e9b57b6c81",
+            "id": "22d441b7277b4479",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git/Comandos Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Comandos Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/Comandos Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Comandos Git.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55ea88e9b57b6c81",
+  "active": "22d441b7277b4479",
   "lastOpenFiles": [
     "Git/Git.md",
     "Git/Comandos Git.md",
