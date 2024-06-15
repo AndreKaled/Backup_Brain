@@ -42,7 +42,8 @@ A URL pode ser HTTP ou SSH.
 
 ---
 # Conhecendo um pouco mais...
-## Branch's
->Branch, é o nome dado para o sistema de versionamento que usamos através do Git e Github, para manter controle dos projetos.
+## Branches (Branch)
+>Branch, é o nome dado para o sistema de versionamento que usamos através do Git e GitHub, para manter controle dos projetos.
 
-A *Main*
+A *Main* ou *Master* é a Branch principal do repositório, imagine-o como o tronco principal de um galho, contendo a versão mais estável e segura do código.
+As outras Branches
