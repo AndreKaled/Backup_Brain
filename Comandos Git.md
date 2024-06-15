@@ -53,7 +53,16 @@ Estas Branches podem se fundir novamente com a Branch principal, fazendo a junç
 Lista todas as branches do repositório local.
 
 `git branch -a`
-Lista todas as branches do repositório local.
+Lista todas as branches locais e remotas.
+
+`git branch -r`
+Lista todas as branches remotas.
+
+`git branch --merged`
+Lista todas as branches já mescladas com a **main**.
+
+`git branch --no-merged`
+Lista todas as branches **não** mescladas com a **main**.
 
 `git checkout <branch_name>`
 Muda para a branch especificada.
@@ -73,4 +82,5 @@ Renomeia o nome da branch.
 `git push`
 Envia a branch local para o repositório remoto.
 
-`git push origin <branch_name>:<branch_remota>`
+`git push origin <branch_name>
+Envia a branch especificada para o **origin**
