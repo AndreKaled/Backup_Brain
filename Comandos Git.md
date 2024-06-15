@@ -17,7 +17,6 @@ Altera a branch atual para a main, recomendado ao iniciar o Git, para garantir c
 `git status`
 Revela o status atual dos arquivos, mostrando os arquivos rastreados pelo Git.
 
-### adicionando arquivos ao commit
 `git add name_file`
 Adiciona o arquivo mencionado para ser rastreado pelo Git ao próximo commit.
 
@@ -34,3 +33,6 @@ Salva o conteúdo dos arquivos e a mensagem de registro do usuário, que descrev
 Envia o commit ao repositório remoto.
 
 ---
+# Baixando dados remotos
+## Repositórios
+## Arquivos alterados
