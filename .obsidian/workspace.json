@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Git's.md",
+                "file": "Comandos Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Git's.md",
+                "file": "Comandos Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Git's.md",
+                "file": "Comandos Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos Git's.md"
+                "file": "Comandos Git.md"
               }
             }
           }
@@ -156,9 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "505656b42c0f0c06",
+  "active": "efa1dbb4e77fb464",
   "lastOpenFiles": [
-    "Comandos Git's.md",
+    "Comandos Git.md",
     "2024-06-14.md",
     "Testing.md"
   ]
