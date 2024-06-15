@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52d03e1a68b5e14a",
+        "id": "05a07b90e777bace",
         "type": "tabs",
         "children": [
           {
-            "id": "2432e2319243cdd5",
+            "id": "55ea88e9b57b6c81",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,19 +16,18 @@
             }
           },
           {
-            "id": "efa1dbb4e77fb464",
+            "id": "380de7beea387ef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Git.md",
+                "file": "Git/Comandos Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Origin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comandos Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,9 +150,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c8c79221e29fe65",
+  "active": "55ea88e9b57b6c81",
   "lastOpenFiles": [
-    "Comandos Git.md",
+    "Git/Comandos Git.md",
+    "Git/Dicionário Git.md",
+    "Git/Git.md",
+    "Git",
     "2024-06-14.md",
     "Testing.md"
   ]
