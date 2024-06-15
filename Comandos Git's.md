@@ -10,4 +10,4 @@ O comando salva em configuração global o email de usuário, especificado entre
 ## Criando repositórios 
 > git init
 
-Inicializa git na pasta local, criando um arquivo .git com algumas configurações definidas.
+Inicializa git na pasta local, criando um arquivo .git com algumas configurações definidas. O git mostrará o nome da Branch principal em uso
