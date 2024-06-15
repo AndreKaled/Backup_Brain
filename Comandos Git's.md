@@ -1,10 +1,10 @@
 # O básico
 ## Configurando identificação
-> git config --global user.name "NomeDeUsuario">
+`git config --global user.name "NomeDeUsuario"`
  
 O comando salva em configuração global o nome de usuário, especificado entre os parênteses.
 
-> git config --global user.email "email@email">
+> git config --global user.email "email@email"
 
 O comando salva em configuração global o email de usuário, especificado entre os parênteses.
 ## Criando repositórios 
