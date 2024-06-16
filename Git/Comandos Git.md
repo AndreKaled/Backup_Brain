@@ -93,5 +93,12 @@ Mostra o histórico de commits da branch especificada.
 Exclui todos os commits da branch, retorna para o commit inicial.
 ## Criando Tag's
 
+`git tag -a <notação da sua versão> -m "sua mensagem de tag"`
+Cria uma tag anotada simples.
 
+`git tag`
+Lista todas as tag's em ordem alfabética.
+
+`git tag -l "padrao especifico"`
+Lista todas as tag's que possuem o padrão especificado, usa-se **
 #Git 
