@@ -94,7 +94,7 @@ Exclui todos os commits da branch, retorna para o commit inicial.
 ## Criando Tag's
 
 `git tag -a <notation_version> -m "sua mensagem de tag"`
-Cria uma tag anotada simples.
+Cria uma tag anotada.
 
 `git tag`
 Lista todas as tag's em ordem alfabética.
@@ -104,5 +104,8 @@ Lista todas as tag's que possuem o padrão especificado, usa-se * para o "autoco
 
 `git show <tag_name>`
 Mostra os dados contidos na tag, junto com o commit realizada.
+
+`git tag <tag_notation>`
+Cria uma tag leve.
 
 #Git 
