@@ -108,4 +108,20 @@ Mostra os dados contidos na tag, junto com o commit realizada.
 `git tag <tag_notation>`
 Cria uma tag leve.
 
+`git tag -a <tag_notation> <commit_checksum_id>`
+Cria uma tag ao commit já realizado, basta adicionar o ID do commit.
+
+`git push origin <tag_name>`
+Envia a tag para o servidor (repositório) remoto.
+
+`git push origin --tags`
+Envia todas as tags ainda não enviadas ao servidor remoto.
+
+`git checkout -b <branch_name> <tag_name>`
+Cria um novo branch em uma tag específica.
+
+`git tag -d <tag_name>`
+Deleta a tag especificada.
+
+
 #Git 
