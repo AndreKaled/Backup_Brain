@@ -91,5 +91,7 @@ Mostra o histórico de commits da branch especificada.
 
 `git reset --hard <branch_name>`
 Exclui todos os commits da branch, retorna para o commit inicial.
+## Criando Tag's
+
 
 #Git 
