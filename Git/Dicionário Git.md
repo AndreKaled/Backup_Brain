@@ -29,6 +29,17 @@ Estas Branches podem se fundir novamente com a Branch principal, fazendo a junç
 # revert
 # merge
 # strash
+# diff
+# cherry-picking
+# clean
+# gitfile
+# grafts
+# hash
+# head
+# HEAD
+# octopus
+# ref
+# resolve
 # Tag
 
 #Git 
