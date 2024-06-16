@@ -40,6 +40,11 @@ Estas Branches podem se fundir novamente com a Branch principal, fazendo a junç
 # octopus
 # ref
 # resolve
+# SCM
+# rewind
+# revision
+# tree
+# fork
 # Tag
 
 #Git 

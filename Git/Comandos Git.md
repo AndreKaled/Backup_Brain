@@ -43,7 +43,7 @@ A URL pode ser HTTP ou SSH.
 
 ---
 # Conhecendo um pouco mais...
-## Branches (Branch)
+## Manipulando branch
 `git branch`
 Lista todas as branches do repositório local.
 
