@@ -15,5 +15,20 @@ Estas Branches podem se fundir novamente com a Branch principal, fazendo a junç
 # Commit
 # Clone
 # Remote
-# 
+# Rebase
+# Reset
+# checkout
+# fetch
+# pull
+# push
+# add
+# log
+# status
+# config
+# init
+# revert
+# merge
+# strash
+# Tag
+
 #Git 
