@@ -14,5 +14,6 @@ Estas Branches podem se fundir novamente com a Branch principal, fazendo a junç
 # Repository (repo)
 # Commit
 # Clone
-#
+# Remote
+# 
 #Git 
