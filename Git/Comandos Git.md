@@ -115,7 +115,7 @@ Cria uma tag ao commit já realizado, basta adicionar o ID do commit.
 Envia a tag para o servidor (repositório) remoto.
 
 `git push origin --tags`
-Envia todas as tags ainda não enviadas ao servidor remoto.
+Envia todas as tag's ainda não enviadas ao servidor remoto.
 
 `git checkout -b <branch_name> <tag_name>`
 Cria um novo branch em uma tag específica.
@@ -123,5 +123,7 @@ Cria um novo branch em uma tag específica.
 `git tag -d <tag_name>`
 Deleta a tag especificada.
 
+`git push --delete origin <tag_name>`
+Deleta a tag especificada do servidor remoto.
 
 #Git 
