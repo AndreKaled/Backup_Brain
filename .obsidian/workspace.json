@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65b18f491bdf3228",
@@ -149,6 +148,7 @@
   },
   "active": "032e4d0e9cee8a4c",
   "lastOpenFiles": [
+    "Untitled.md",
     "Git/Comandos Git.md",
     "Git/Dicionário Git.md",
     "Git/Git.md",
