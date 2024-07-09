@@ -11,13 +11,28 @@
             "id": "2b85ee5d5a4c76e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Latex/BibTex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0357f3f12f695ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos/Algoritmos de ordenação.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmos/Algoritmos de ordenação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algoritmos/Algoritmos de ordenação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algoritmos/Algoritmos de ordenação.md"
+              }
             }
           }
         ]
@@ -140,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b85ee5d5a4c76e3",
+  "active": "505656b42c0f0c06",
   "lastOpenFiles": [
+    "Latex/BibTex.md",
+    "Algoritmos/Algoritmos de ordenação.md",
+    "Algoritmos",
     "Git/Comandos Git.md",
-    "BibTex.md",
     "Git/Dicionário Git.md",
     "Latex",
     "Git/Git.md",
