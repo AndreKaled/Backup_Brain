@@ -65,7 +65,7 @@ Divide a lista em sublistas menores, ordena cada sublista e depois as combina (m
 ## Quick Sort
 Seleciona um elemento como pivô e particiona a lista em dois subgrupos: um com elementos menores que o pivô e outro com elementos maiores. Ordena os subgrupos recursivamente. Também usa divisão e conquista e é eficiente para grandes conjuntos, com complexidade média de O(n log n).
 ## Heap Sort
-Constrói uma estrutura de dados em forma de heap a partir da lista e extrai o maior (ou menor) elemento repetidamente para formar a lista ordenada. Tem complexidade de tempo O(n log n).
+Constrói uma estrutura de dados em forma de #heap a partir da lista e extrai o maior (ou menor) elemento repetidamente para formar a lista ordenada. Tem complexidade de tempo O(n log n).
 
 ---
 # Eficácia aplicada
@@ -78,6 +78,15 @@ Constrói uma estrutura de dados em forma de heap a partir da lista e extrai o m
 | Merge          | O(n*log n)  | O(n*log n) | O(n*log n) | O(n)                    |
 | Quick          | O(n*log n)  | O(n*log n) | O(n²)      | O(log n)                |
 | Heap           | O(n*log n)  | O(n*log n) | O(n*log n) | O(1)                    |
+
+| Algoritmo Sort | Recomenda-se                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------- |
+| Bubble         | Pequenos conjuntos de dados não críticos em desempenho                                      |
+| Selection      | Pequenos conjuntos de dados, simplicidade de implementação prioritária.                     |
+| Insertion      | Pequenos conjuntos de dados quase ordenadas (eficaz no melhor caso).                        |
+| Merge          | Grandes conjuntos de dados, estabilidade é importante.                                      |
+| Quick          | Grandes conjuntos de dados, espaço auxiliar limitado.                                       |
+| Heap           | Grandes conjuntos de dados, espaço auxiliar é limitado e desempenho O(n log n) é aceitável. |
 
 
 ---
