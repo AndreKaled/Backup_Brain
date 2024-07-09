@@ -64,16 +64,20 @@ print("Insertion: ", insertion_sort(l))
 Divide a lista em sublistas menores, ordena cada sublista e depois as combina (merge) de volta em uma lista ordenada. Utiliza a abordagem de divisão e conquista e tem complexidade de tempo O(n log n).
 ## Quick Sort
 Seleciona um elemento como pivô e particiona a lista em dois subgrupos: um com elementos menores que o pivô e outro com elementos maiores. Ordena os subgrupos recursivamente. Também usa divisão e conquista e é eficiente para grandes conjuntos, com complexidade média de O(n log n).
-## Herp Sort
+## Heap Sort
 Constrói uma estrutura de dados em forma de heap a partir da lista e extrai o maior (ou menor) elemento repetidamente para formar a lista ordenada. Tem complexidade de tempo O(n log n).
 
 ---
 # Eficácia aplicada
 
-| Algoritmo | Melhor caso | Caso médio | Pior caso | Uso de memória auxiliar |
-| --------- | ----------- | ---------- | --------- | ----------------------- |
-|           |             |            |           |                         |
-|           |             |            |           |                         |
+| Algoritmo Sort | Melhor caso | Caso médio | Pior caso  | Uso de memória auxiliar |
+| -------------- | ----------- | ---------- | ---------- | ----------------------- |
+| Bubble         | O(n)        | O(n²)      | O(n²)      | O(1)                    |
+| Selection      | O(n²)       | O(n²)      | O(n²)      | O(1)                    |
+| Insertion      | O(n)        | O(n²)      | O(n²)      | O(1)                    |
+| Merge          | O(n*log n)  | O(n*log n) | O(n*log n) | O(n)                    |
+| Quick          | O(n*log n)  | O(n*log n) | O(n²)      | O(log n)                |
+| Heap           | O(n*log n)  | O(n*log n) | O(n*log n) | O(1)                    |
 
 
 ---
