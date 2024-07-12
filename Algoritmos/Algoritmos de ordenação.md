@@ -61,7 +61,7 @@ print("Insertion: ", insertion_sort(l))
 ```
 
 ## Merge Sort
-Divide a lista em sublistas menores, ordena cada sublista e depois as combina (merge) de volta em uma lista ordenada. Utiliza a abordagem de divisão e conquista e tem complexidade de tempo O(n log n).
+Divide a lista em sublistas menores, ordena cada sublista e depois as combina (merge) de volta em uma lista ordenada. Utiliza a abordagem de divisão e conquista.
 ## Quick Sort
 Seleciona um elemento como pivô e particiona a lista em dois subgrupos: um com elementos menores que o pivô e outro com elementos maiores. Ordena os subgrupos recursivamente. Também usa divisão e conquista e é eficiente para grandes conjuntos, com complexidade média de O(n log n).
 ## Heap Sort
