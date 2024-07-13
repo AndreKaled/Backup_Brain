@@ -62,8 +62,50 @@ print("Insertion: ", insertion_sort(l))
 
 ## Merge Sort
 Divide a lista em sublistas menores, ordena cada sublista e depois as combina (merge) de volta em uma lista ordenada. Utiliza a abordagem de divisão e conquista.
+```python
+#Merge sort
+def merge(lst, inicio, meio, fim, aux):
+   i = inicio
+   j = meio + 1
+   k = inicio
+
+   while i <= meio and j <= fim:
+      if lst[i] <= lst[j]:
+         aux[k] = lst[i]
+         i += 1
+      else:
+         aux[k] = lst[j]
+         j += 1
+      k += 1
+   
+   while i <= meio:
+      aux[k] = lst[i]
+      i += 1
+      k += 1
+
+   while j <= fim:
+      aux[k] = lst[j]
+      j += 1
+      k += 1
+
+   for it in range(inicio, fim + 1):
+      lst[it] = aux[it]
+
+def mergeSort(lst, inicio, fim, aux):
+   if inicio < fim:
+      meio = (inicio + fim) // 2
+      mergeSort(lst, inicio, meio, aux)
+      mergeSort(lst, meio + 1, fim, aux)
+      merge(lst, inicio, meio, fim, aux)
+
+def aplica_merge_sort(lista):
+   lst = lista.copy()
+   mergeSort(lst, 0, len(lst)-1,lst.copy())
+   return lst
+```
 ## Quick Sort
 Seleciona um elemento como pivô e particiona a lista em dois subgrupos: um com elementos menores que o pivô e outro com elementos maiores. Ordena os subgrupos recursivamente. Também usa divisão e conquista e é eficiente para grandes conjuntos, com complexidade média de O(n log n).
+
 ## Heap Sort
 Constrói uma estrutura de dados em forma de #heap a partir da lista e extrai o maior (ou menor) elemento repetidamente para formar a lista ordenada. Tem complexidade de tempo O(n log n).
 
