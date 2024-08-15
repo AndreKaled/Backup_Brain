@@ -70,6 +70,26 @@ SELECT (column_name,...) FROM TABLE_NAME;
 ### Consulta filtrada de um registro
 ```SQL
 SELECT * FROM TABLE_NAME
-WHERE column operator_here data_here;
+WHERE condition;
 ```
-### Consulta 
+### Consulta com operadores lógicos
+#### AND
+```SQL
+SELECT * FROM TABLE_NAME
+WHERE condition_1 AND condition_2;
+```
+#### OR
+```SQL
+SELECT * FROM TABLE_NAME
+WHERE condition_1 OR condition_2;
+```
+#### NOT
+```SQL
+SELECT * FROM TABLE_NAME
+WHERE NOT condition_1;
+```
+
+### Encurtando os filtros
+#### BETWEEN
+#### IN
+#### LIKE
