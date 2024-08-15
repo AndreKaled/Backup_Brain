@@ -107,7 +107,6 @@ def aplica_merge_sort(lista):
 Seleciona um elemento como pivô e particiona a lista em dois subgrupos: um com elementos menores que o pivô e outro com elementos maiores. Ordena os subgrupos recursivamente. Também usa divisão e conquista e é eficiente para grandes conjuntos, com complexidade média de O(n log n).
 
 ```python
-# Quick sort
 def quick_sort(lista):
    if(len(lista)<=1):
       return lista.copy()
