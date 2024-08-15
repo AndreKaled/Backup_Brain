@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Comandos SQL.md",
+                "file": "Banco de dados/Comandos SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Comandos SQL.md",
+                "file": "Banco de dados/Comandos SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Comandos SQL.md",
+                "file": "Banco de dados/Comandos SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Comandos SQL.md"
+                "file": "Banco de dados/Comandos SQL.md"
               }
             }
           }
@@ -159,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0df329e2fb83d69",
+  "active": "505656b42c0f0c06",
   "lastOpenFiles": [
     "Algoritmos/Algoritmos de ordenação.md",
-    "SQL/Comandos SQL.md",
+    "Banco de dados/Comandos SQL.md",
     "Git/Git.md",
     "Git/Comandos Git.md",
     "SQL.md",
-    "SQL",
+    "Banco de dados",
     "Latex/BibTex.md",
     "Algoritmos",
     "Git/Dicionário Git.md",
