@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0df329e2fb83d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Comandos SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos/Algoritmos de ordenação.md",
+                "file": "SQL/Comandos SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmos/Algoritmos de ordenação.md",
+                "file": "SQL/Comandos SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos/Algoritmos de ordenação.md"
+                "file": "SQL/Comandos SQL.md"
               }
             }
           }
@@ -146,15 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0357f3f12f695ba",
+  "active": "d0df329e2fb83d69",
   "lastOpenFiles": [
-    "Latex/BibTex.md",
     "Algoritmos/Algoritmos de ordenação.md",
-    "Algoritmos",
+    "SQL/Comandos SQL.md",
+    "Git/Git.md",
     "Git/Comandos Git.md",
+    "SQL.md",
+    "SQL",
+    "Latex/BibTex.md",
+    "Algoritmos",
     "Git/Dicionário Git.md",
     "Latex",
-    "Git/Git.md",
     "Git",
     "2024-06-14.md",
     "Testing.md"
