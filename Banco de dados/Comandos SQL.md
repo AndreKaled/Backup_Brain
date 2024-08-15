@@ -8,6 +8,10 @@ CREATE DATABASE DATABASE_NAME;
 ```SQL
 USE DATABASE_NAME;
 ```
+## Deletando base de dados
+```SQL
+DROP DATABASE DATABASE_NAME;
+```
 ## Criando tabelas
 ```SQL
 CREATE TABLE TABLE_NAME{
@@ -31,6 +35,10 @@ DROP COLUMN column_name;
 ALTER TABLE TABLE_NAME
 MODIFY COLUMN column_name DATA_TYPE;
 ```
+## Limpando tabelas
+```SQL
+TRUNCATE TABLE TABLE_NAME;
+```
 ## Deletando tabelas
 ```SQL
 DROP TABLE TABLE_NAME;
@@ -44,7 +52,24 @@ VALUES (value_column_1,...);
 ```SQL
 SELECT * FROM TABLE_NAME;
 ```
+## Alterando registro
+```SQL
+UPDATE TABLE_NAME SET column = value WHERE columnID = x;
+```
 ## Deletando registro
 ```SQL
-DELETE FROM TABLE_NAME WHERE column = x;
+DELETE FROM TABLE_NAME WHERE columnID = x;
 ```
+
+# Aprofundando...
+## Filtros
+### Consulta filtrada de dados tabela
+```SQL
+SELECT (column_name,...) FROM TABLE_NAME;
+```
+### Consulta filtrada de um registro
+```SQL
+SELECT * FROM TABLE_NAME
+WHERE column operator_here data_here;
+```
+### Consulta 

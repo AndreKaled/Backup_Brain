@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0357f3f12f695ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos/Algoritmos de ordenação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d0df329e2fb83d69",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "505656b42c0f0c06",
+  "active": "d0df329e2fb83d69",
   "lastOpenFiles": [
-    "Algoritmos/Algoritmos de ordenação.md",
-    "Banco de dados/Comandos SQL.md",
-    "Git/Git.md",
     "Git/Comandos Git.md",
+    "Banco de dados/Comandos SQL.md",
+    "Algoritmos/Algoritmos de ordenação.md",
+    "Git/Git.md",
     "SQL.md",
     "Banco de dados",
     "Latex/BibTex.md",
